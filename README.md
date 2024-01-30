@@ -1,15 +1,17 @@
 # 👋 Hi, I'm Lily!
 
 ## 🌟 About Me
-As a coder with a deep-rooted passion for technology, I've dedicated over 12 years to mastering the art of creating efficient and maintainable code. My journey has taken me through diverse realms of programming, including Software and Game Development, Competitive Programming, Web Development, DevOps, and Machine Learning.
+With a coding journey beginning at the young age of 12, I have immersed myself in the vast world of technology, mastering the intricacies of software and game development, competitive programming, web development, DevOps, machine learning, and more. My passion lies in crafting efficient, maintainable code and pushing the boundaries of what's possible with technology.
 
 ### 🏆 Achievements
-- **Competitive Programming**: Clinched the top spot in a national tournament for 3 consecutive years.
-- **Professional Projects**: Delivered mission-critical code for major corporate websites.
-- **Game Development**: Published a mobile game that hit the top 400 in Asia, a testament to my creativity and understanding of user engagement.
+- **Competitive Programming**: Dominated a national tournament for 3 consecutive years.
+- **Professional Projects**: Spearheaded the development of mission-critical websites for top-tier companies, ensuring both performance and reliability.
+- **Game Development**: Launched a mobile game that soared to the top 400 in Asia, showcasing my knack for engaging and immersive experiences.
+- **Artificial Intelligence**: Led AI training initiatives for leading companies, advancing the frontier of machine learning applications.
+- **Marketing & UX**: Executed successful marketing campaigns and applied my deep understanding of UX principles to enhance product design and user satisfaction.
 
 ## 💻 Skills and Technologies
-While Python is my go-to language, my versatile skill set spans C#, C++, Java, Ruby, Rust, and JavaScript. My substantial experience with Unity3D has been a cornerstone in developing immersive and engaging games. This eclectic mix of languages and technologies underlines my adaptability and eagerness to tackle diverse challenges.
+My technical arsenal includes Python, C#, C++, Java, Ruby, Rust, JavaScript, and Unity3D. I've applied these skills across various domains, from AI training and data analysis to code architecture design. My work in UX design and marketing has honed my ability to see projects from multiple perspectives, ensuring a user-centered approach to technology.
 
 ## 🎓 Education & Certifications
 - Certified Paramedic
@@ -20,9 +22,9 @@ While Python is my go-to language, my versatile skill set spans C#, C++, Java, R
 - Discord: lily.prism
 
 ## 👩‍💻 Personal Interests
-Beyond code, I find joy in automating tasks, sharing the wonders of coding with others, and exploring the skies and roads through my love for aviation and motorcycles. My life is a blend of high-tech and high-adrenaline adventures.
+My interests extend to automating tasks, mentoring in coding, and exploring aviation and motorcycles. These passions drive me to innovate constantly, blending my technical expertise with my love for adventure.
 
 ## 🌸 Layout and Style
-*Embracing my style, this README reflects a blend of professional sophistication with a hint of femininity, mirroring my approach to both coding and life.*
+*This README is crafted to reflect my professional achievements and personal style, combining a sense of elegance with a dash of femininity. It's a testament to my multifaceted approach to problem-solving and innovation.*
 
-<small>*This content was generated with the assistance of an AI, tailored to showcase my unique journey and skills.*</small>
+<small>*Content crafted with AI assistance, highlighting my unique blend of technical prowess and creative thinking.*</small>
