@@ -1,30 +1,94 @@
-# 👋 Hi, I'm Lily!
+# 👋 Hi, I'm Liliana!
 
-## 🌟 About Me
-With a coding journey beginning at the young age of 12, I have immersed myself in the vast world of technology, mastering the intricacies of software and game development, competitive programming, web development, DevOps, machine learning, and more. My passion lies in crafting efficient, maintainable code and pushing the boundaries of what's possible with technology.
+## 🚀 Freelance AI & Software Engineer | Specializing in LLM Training
 
-### 🏆 Achievements
-- **Competitive Programming**: Dominated a national tournament for 3 consecutive years.
-- **Professional Projects**: Spearheaded the development of mission-critical websites for top-tier companies, ensuring both performance and reliability.
-- **Game Development**: Launched a mobile game that soared to the top 400 in Asia, showcasing my knack for engaging and immersive experiences.
-- **Artificial Intelligence**: Led AI training initiatives for leading companies, advancing the frontier of machine learning applications.
-- **Marketing & UX**: Executed successful marketing campaigns and applied my deep understanding of UX principles to enhance product design and user satisfaction.
+I'm a passionate and results-oriented Computer Engineer with 13+ years of experience in the tech landscape, starting my coding journey at age 12. My core focus is on **freelance projects involving Large Language Model (LLM) training, AI development, and custom software solutions.** I thrive on building efficient, scalable, and maintainable code, transforming complex challenges into innovative solutions.
 
-## 💻 Skills and Technologies
-My technical arsenal includes Python, C#, C++, Java, Ruby, Rust, JavaScript, and Unity3D. I've applied these skills across various domains, from AI training and data analysis to code architecture design. My work in UX design and marketing has honed my ability to see projects from multiple perspectives, ensuring a user-centered approach to technology.
+---
+
+## ✨ Why Work With Me?
+
+* **Proven Expertise in AI:** Successfully led AI training initiatives, including LLM refinement, for leading companies, directly contributing to advancing machine learning applications.
+* **Full-Stack Capabilities:** From developing mission-critical, high-performance websites for top-tier companies to launching successful mobile games, I bring a broad skill set to the table.
+* **Client-Focused & Results-Driven:** I prioritize understanding your project goals to deliver solutions that provide tangible value and exceptional user experiences.
+* **Dedicated Problem Solver:** My background in competitive programming (3-time national champion) has honed my ability to tackle complex problems with creativity and precision.
+
+---
+
+## 🎯 Core Competencies & Services
+
+* **AI & Machine Learning:**
+    * Large Language Model (LLM) Training & Fine-tuning
+    * Data Preprocessing & Augmentation for AI
+    * Custom AI Model Development
+    * Machine Learning Operations (MLOps)
+* **Software & Web Development:**
+    * Full-Stack Web Development (Frontend & Backend)
+    * API Design & Integration
+    * Database Design & Management
+    * Performance Optimization
+* **Game Development:**
+    * Mobile Game Development (Unity3D)
+    * Gameplay Mechanics & Systems Design
+* **DevOps & Code Architecture:**
+    * CI/CD Pipelines
+    * Scalable & Maintainable Code Design
+* **UX Design & Strategy:**
+    * User-Centric Design Principles
+    * Improving User Engagement & Satisfaction
+
+---
+
+## 🛠️ Technologies & Tools
+
+* **Languages:** Python, C#, C++, Java, JavaScript, Ruby, Rust
+* **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Hugging Face, Pandas, NumPy
+* **Web:** Node.js, React, Angular, Vue.js, Django, Flask
+* **Game Dev:** Unity3D
+* **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+* **Cloud/DevOps:** Docker, Kubernetes, AWS, Azure, GCP
+
+---
+
+## 🏆 Key Achievements
+
+* **Led AI Training Initiatives:** Spearheaded advanced AI model training for prominent companies, enhancing their machine learning capabilities.
+* **Top-Tier Web Development:** Architected and developed high-stakes websites, ensuring optimal performance and reliability for major clients.
+* **Mobile Gaming Success:** Launched a mobile game that achieved Top 400 ranking in Asia, demonstrating expertise in creating engaging user experiences.
+* **Competitive Programming Champion:** Secured first place in a national programming tournament for three consecutive years.
+* **Marketing & UX Impact:** Successfully executed marketing campaigns and leveraged deep UX understanding to enhance product design and user satisfaction.
+
+---
+
+## 💡 Looking For Freelance Opportunities In:
+
+* LLM Training and Customization
+* AI Model Development and Implementation
+* Custom Software and Web Application Development
+* Technical Consulting for AI & Software Projects
+
+---
 
 ## 🎓 Education & Certifications
-- Certified Paramedic
-- Professional Programming Course
 
-## ✉️ Contact Me
-- Email: [lily.code99@gmail.com](mailto:lily.code99@gmail.com)
-- Discord: lily.prism
+* **Professional Programming Course**
+* **Certified Paramedic** (Demonstrates responsibility, ability to perform under pressure, and attention to detail)
+
+---
+
+## 📬 Let's Connect!
+
+I'm always excited to discuss new projects and challenges. Reach out to me:
+
+* **Email:** [lily.code99@gmail.com](mailto:lily.code99@gmail.com)
+* **Discord:** lily.prism
+* **LinkedIn:** [lilianaferreira99](https://www.linkedin.com/in/lilianaferreira99/)
+
+---
 
 ## 👩‍💻 Personal Interests
-My interests extend to automating tasks, mentoring in coding, and exploring aviation and motorcycles. These passions drive me to innovate constantly, blending my technical expertise with my love for adventure.
 
-## 🌸 Layout and Style
-*This README is crafted to reflect my professional achievements and personal style, combining a sense of elegance with a dash of femininity. It's a testament to my multifaceted approach to problem-solving and innovation.*
+Beyond coding, I enjoy automating tasks, mentoring aspiring developers, and exploring the worlds of aviation and motorcycles. These pursuits fuel my drive for continuous innovation and a well-rounded approach to problem-solving.
 
-<small>*Content crafted with AI assistance, highlighting my unique blend of technical prowess and creative thinking.*</small>
+---
+*This README is crafted to reflect my professional journey and dedication to delivering impactful technology solutions. Content structure refined for clarity; original achievements and skills proudly presented.*
